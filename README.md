@@ -1,2 +1,2 @@
 # Project-Omega
-For General Artificial Intelligence projects.
+For Artificial General Intelligence projects.
